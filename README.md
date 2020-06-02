@@ -1,37 +1,25 @@
-## Lost and found site
+<!DOCTYPE html> 
+<html>
+<head>
+	<title>Lost and Found</title>
+</head>
+<body>
+	
+	<img src="https://36d5l8225ig13rrnnc3w4af9-wpengine.netdna-ssl.com/wp-content/uploads/sites/39/2017/09/lost_and_found_header.jpeg"></img>
+	<h3><font color="green" size="50">Lost and Found.</font></h3>
+	
+	<h4>Choose your identity.</h4>
+	<a>I'm finding lost thing.</a><br>
+	<a>I'm finding the lose owner.</a>
 
-This is a website that created by group 7 
 
 
 
-### How to use this website
-If you lost something, you can update the picture of your lost stuff and left your contact info.<br>
-If you picked up someone's lost thing, you can upload the picture of the loset thing and left your contact info.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+</body>
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Perry481/project-1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</html>
