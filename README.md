@@ -5,7 +5,7 @@ This is a website that created by group 7
 
 
 ### How to use this website
-If you lost something, you can update the picture of your lost stuff and left your contact info.
+If you lost something, you can update the picture of your lost stuff and left your contact info.<br>
 If you picked up someone's lost thing, you can upload the picture of the loset thing and left your contact info.
 
 ```markdown
