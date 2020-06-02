@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Lost and found site
 
-You can use the [editor on GitHub](https://github.com/Perry481/project-1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is a website that created by group 7 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### How to use this website
+If you lost something, you can update the picture of your lost stuff and left your contact info.
+If you picked up someone's lost thing, you can upload the picture of the loset thing and left your contact info.
 
 ```markdown
 Syntax highlighted code block
